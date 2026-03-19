@@ -41,7 +41,12 @@ Currently expanding my portfolio with projects that emphasize real-world pattern
 AI SQL Agent that converts natural language questions into SQL queries.  
 Built with **LangChain · Groq/LLaMA · Flask · PostgreSQL** — hexagonal architecture.
 
+### 📊 [Proyecto-Dashbard](https://github.com/Knunez2711/Proyecto-Dashbard)
+Interactive dashboard analyzing Colombians convicted abroad — data visualization of trends, crimes, and geographic distribution.  
+Built with **Flask · Plotly Express · Python · HTML**.
+
 ### ✈️ [aeropuerto-ecci](https://github.com/Knunez2711/aeropuerto-ecci)
 Airport management system in **Java** using OOP design patterns.  
 Built with **Maven · Swing**.
 
+---
