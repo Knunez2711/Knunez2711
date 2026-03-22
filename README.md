@@ -18,6 +18,7 @@ Python, Java y Go.
 | [Agente IA SQL](https://github.com/Knunez2711/Agente-IA-Proyect) | Python · LangChain · Flask · PostgreSQL | Agente inteligente que convierte lenguaje natural a consultas SQL. Arquitectura hexagonal. |
 | [Airport Management](https://github.com/Knunez2711/aeropuerto-ecci) | Java · Maven · Swing | Sistema de gestión aeroportuaria con patrones OOP. |
 | [Password Generator](https://github.com/Knunez2711/password-generator) | Go | CLI para generación de contraseñas seguras con `crypto/rand`. Fundamentos de Go. |
+| [Proyecto Dashboard](https://github.com/Knunez2711/Proyecto-Dashbard) | HTML · CSS · JS | Dashboard desarrollado como proyecto de grado — Tecnología en Desarrollo Informático. |
 
 ---
 
@@ -27,7 +28,7 @@ Python, Java y Go.
 `Python` `Java` `Go` `JavaScript`
 
 **Backend**
-`Flask` `Odoo` `REST APIs`
+`Flask` `FastAPI` `Odoo` `REST APIs`
 
 **Bases de datos**
 `PostgreSQL` `SQL Server`
@@ -38,10 +39,10 @@ Python, Java y Go.
 ---
 
 ## Certificaciones recientes
-- Curso Básico de Programación en Go — Platzi
+- Curso Programación en Go — Platzi
 - Git y GitHub — Platzi
-- Python Basic — HackerRank (2025)
-- SCRUM Fundamentals (2022)
+- Python Basic — Cursos Universida ECCI
+- SCRUM Fundamentals 
 
 ---
 
