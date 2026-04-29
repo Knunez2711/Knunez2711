@@ -7,7 +7,7 @@ Python · Java · Go · PostgreSQL · Odoo · Ansible · Linux
 
 Desarrollador backend con experiencia real en producción: módulos ERP, APIs REST,
 automatización con Ansible y arquitecturas limpias. Construyendo portafolio en
-Python, Java y Go.
+Java,Python y Go.
 
 ---
 
