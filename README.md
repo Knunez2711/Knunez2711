@@ -15,6 +15,7 @@ Python, Java y Go.
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
+| [Sistema ERP]([https://github.com/Knunez2711/Agente-IA-Proyect](https://github.com/Knunez2711/erp-sistema)) | Python · LangChain · Flask · PostgreSQL | Agente inteligente que convierte lenguaje natural a consultas SQL. Arquitectura hexagonal.
 | [Agente IA SQL](https://github.com/Knunez2711/Agente-IA-Proyect) | Python · LangChain · Flask · PostgreSQL | Agente inteligente que convierte lenguaje natural a consultas SQL. Arquitectura hexagonal. |
 | [Airport Management](https://github.com/Knunez2711/aeropuerto-ecci) | Java · Maven · Swing | Sistema de gestión aeroportuaria con patrones OOP. |
 | [Password Generator](https://github.com/Knunez2711/password-generator) | Go | CLI para generación de contraseñas seguras con `crypto/rand`. Fundamentos de Go. |
