@@ -15,9 +15,9 @@ Python, Java y Go.
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
-| [Sistema ERP]([https://github.com/Knunez2711/Agente-IA-Proyect](https://github.com/Knunez2711/erp-sistema)) | Python · LangChain · Flask · PostgreSQL | Agente inteligente que convierte lenguaje natural a consultas SQL. Arquitectura hexagonal.
+| [Sistema ERP](https://github.com/Knunez2711/erp-sistema) | Java 17 · Spring Boot 3 · JWT · H2 | Sistema ERP con autenticación JWT, dashboard y Clean Architecture (Hexagonal). |
 | [Agente IA SQL](https://github.com/Knunez2711/Agente-IA-Proyect) | Python · LangChain · Flask · PostgreSQL | Agente inteligente que convierte lenguaje natural a consultas SQL. Arquitectura hexagonal. |
-| [Airport Management](https://github.com/Knunez2711/aeropuerto-ecci) | Java · Maven · Swing | Sistema de gestión aeroportuaria con patrones OOP. |
+| [Airport Management](https://github.com/Knunez2711/Aeropuerto-ECCI) | Java · Maven · Swing | Sistema de gestión aeroportuaria con patrones OOP. |
 | [Password Generator](https://github.com/Knunez2711/password-generator) | Go | CLI para generación de contraseñas seguras con `crypto/rand`. Fundamentos de Go. |
 | [Proyecto Dashboard](https://github.com/Knunez2711/Proyecto-Dashbard) | HTML · CSS · JS | Dashboard desarrollado como proyecto de grado — Tecnología en Desarrollo Informático. |
 
@@ -39,14 +39,15 @@ Python, Java y Go.
 
 ---
 
-## Certificaciones recientes
+## Certificaciones
+
 - Desarrollo Backend con Java
-- Programación con Python
+- Programación con Python
 - Curso de Go
-- Cuso de Git y GitHub
+- Curso de Git y GitHub
 - SCRUM Fundamentals
 - Cisco Networking Devices and Initial Configuration
-- Seminario de Investigación en Python
+- Seminario de Investigación en Python
 
 ---
 
