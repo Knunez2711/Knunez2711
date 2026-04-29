@@ -25,7 +25,7 @@ Python, Java y Go.
 ## Stack
 
 **Lenguajes**
-`Python` `Java` `Go` `JavaScript`
+`Java` `Python` `Go` `JavaScript`
 
 **Backend**
 `Flask` `FastAPI` `Odoo` `REST APIs`
@@ -39,10 +39,13 @@ Python, Java y Go.
 ---
 
 ## Certificaciones recientes
-- Curso Programación en Go — Platzi
-- Git y GitHub — Platzi
-- Python Basic — Cursos Universida ECCI
-- SCRUM Fundamentals 
+- Desarrollo Backend con Java
+- Programación con Python
+- Curso de Go
+- Cuso de Git y GitHub
+- SCRUM Fundamentals
+- Cisco Networking Devices and Initial Configuration
+- Seminario de Investigación en Python
 
 ---
 
