@@ -70,7 +70,6 @@ Rol híbrido: desarrollo backend en producción + administración de infraestruc
 - Curso de Java — Platzi
 - SCRUM Fundamentals
 
-
 <p align="center">
 📫 <a href="mailto:kevinne57@gmail.com">kevinne57@gmail.com</a> · 
 <a href="https://linkedin.com/in/knunez97">LinkedIn</a> · 
