@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
 </p>
 
+<<<<<<< HEAD
 Software Engineer con experiencia real en producción combinando **desarrollo backend** (Python, Java/Spring Boot, Go, APIs REST, PostgreSQL) con **infraestructura y Cloud sobre Azure** (Entra ID, RBAC, Managed Identity, NSG/VNet, Blob Storage) y automatización (Ansible, Zabbix, Nginx, PgBouncer). Actualmente en rol híbrido en **DrivErp S.A.S**, y en camino a la certificación **AZ-104**.
 
 - 🔭 Trabajando en: módulos backend para sistemas empresariales (facturación, inventario) y administración de infraestructura Azure en producción
@@ -18,6 +19,11 @@ Software Engineer con experiencia real en producción combinando **desarrollo ba
 - 🎓 Estudiando Ingeniería de Sistemas — ECCI
 - 🌱 Explorando: Terraform, Kubernetes/AKS, KQL, Apache Airflow y arquitecturas Delta Lake (Bronze/Silver/Gold) para un proyecto propio de ingeniería de datos
 - 💬 Pregúntame sobre: Azure, PostgreSQL, arquitectura de APIs REST, automatización con Ansible
+=======
+Desarrollador backend con experiencia real en producción: módulos ERP, APIs REST,
+automatización con Ansible y arquitecturas limpias. Construyendo portafolio en
+Java,Python y Go.
+>>>>>>> 395f5b345ac59d52a85b12899a2034604d2031c1
 
 ---
 
