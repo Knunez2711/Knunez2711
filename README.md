@@ -70,18 +70,6 @@ Rol híbrido: desarrollo backend en producción + administración de infraestruc
 - Curso de Java — Platzi
 - SCRUM Fundamentals
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Knunez2711&show_icons=true&theme=default&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Knunez2711" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knunez2711&layout=compact" height="150"/>
-</p>
-
----
 
 <p align="center">
 📫 <a href="mailto:kevinne57@gmail.com">kevinne57@gmail.com</a> · 
